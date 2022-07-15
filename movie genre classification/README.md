@@ -25,4 +25,10 @@
 ![image](https://user-images.githubusercontent.com/71770999/179218325-a300693e-04b0-417b-8540-28e36de7d6ff.png)
 ![image](https://user-images.githubusercontent.com/71770999/179218570-b50ae096-847c-426c-b066-f3fb80f5c1f0.png)
 
+# Model Deployment         
+* Repository Link :            
+ https://github.com/praveen-266/movie-genre-classification-deployment      
+ 
+* Web App Link : https://movie-genreprediction.herokuapp.com/
 
+**Do ⭐the repositroy , if it helped you in anyway
